@@ -18,11 +18,11 @@ This is my first local change to the repo!
 - Item 2
   - Subitem 1
 
-1.first Item
+1.first Item 
 
-2.
+2.second Iterm
 
-3.second term
+3.third Item
 
 [link text](https://www.google.com)
 
@@ -30,3 +30,11 @@ This is my first local change to the repo!
 
 ![An image of Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
+```
+function helloWorld(){
+    console.log("Hello world!");
+}
+```
+Update the `draw()` function to include the loop
+
+> This is a blockquote.
